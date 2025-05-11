@@ -2,6 +2,7 @@ locals {
   diploma_list = [
     "1-gcp-initialization",
     "2-terraform-operational",
+    "3-terraform-configurational",
     "microservices-demo",
   ]
 }
